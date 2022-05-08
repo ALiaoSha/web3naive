@@ -1,2 +1,2 @@
 # web3naive
-notes for my knowledge about web3
+This is a note collection for my knowledge about web3.0
