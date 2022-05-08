@@ -11,7 +11,7 @@ date: 2022-05-08
 
 gitcoin是基于ETH生态的，目前是ETH生态的主要的开发者开源资助与激励平台。很多ETH生态的开源项目都托管在上面发起悬赏，推动项目的发展和完成。他现在的slogan是 "Build and fund the open web together".  很明显这个愿景已经不局限在代码开发的范围了，而是想构建一个开放的互联网平台，一起来定义未来的开发互联网形式，即web3.0. 
 
-![image.png](assets/image-20220507220047-ynx9eb9.png)
+![image.png](/assets/image-20220507220047-ynx9eb9.png)
 
 Gitcoin发展到现在已经有很多板块。主要包括
 
@@ -32,5 +32,5 @@ Gitcoin发布GTC治理代币是将Gitcoin去中心化的重要一步。GitcoinDA
 
 **[reference]**
 
-* https://mirror.xyz/0xfu.eth/5v6Yas3kLen7Xs1vg4ZDSDjlwor1LjpfJ7sbfe7Mufc
-* https://media.consensys.net/gitcoin-founder-kevin-owocki-explains-the-strategy-as-platform-passes-1-million-f5eb89db71c2
+* [https://mirror.xyz/0xfu.eth/5v6Yas3kLen7Xs1vg4ZDSDjlwor1LjpfJ7sbfe7Mufc]
+* [https://media.consensys.net/gitcoin-founder-kevin-owocki-explains-the-strategy-as-platform-passes-1-million-f5eb89db71c2]
